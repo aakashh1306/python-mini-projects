@@ -6,13 +6,6 @@
 
 # Python-Mini-Projects
 
-[![All Contributors](https://img.shields.io/github/contributors/Python-World/python-mini-projects)](#contributors-)
-![Issues](https://img.shields.io/github/issues/Python-World/python-mini-projects)
-![Pull Requests](https://img.shields.io/github/issues-pr/Python-World/python-mini-projects?)
-![Forks](https://img.shields.io/github/forks/Python-World/python-mini-projects)
-![Stars](https://img.shields.io/github/stars/Python-World/python-mini-projects)
-![License](https://img.shields.io/github/license/Python-World/python-mini-projects)
-
 A collection of simple python mini projects to enhance your Python skills.
 
 If you want to learn about python, visit [here.](https://github.com/Python-World/Py-Resources)
